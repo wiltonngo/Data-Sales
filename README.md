@@ -1,6 +1,6 @@
 # Data-Sales
 ASK:
-You want to analyze specific products that has the most smount of sales. Which product had the least amount of Sales. So you can help estimate which products will need more supply of those product based on Sales. Also which City will need a better market strategy to sell their products to increase their sales.
+You are a Junior Analyst at best buy you want to analyze specific products that has the most smount of sales. Which product had the least amount of Sales. So you can help estimate which products will need more supply of those product based on Sales. Also which City will need a better market strategy to sell their products to increase their sales.
 
 
 Data And Model:
