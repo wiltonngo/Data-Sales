@@ -1,6 +1,6 @@
 # Data-Sales
 ASK:
-You are a Junior Analyst at best buy you want to analyze specific products that has the most smount of sales. Which product had the least amount of Sales. So you can help estimate which products will need more supply of those product based on Sales. Also which City will need a better market strategy to sell their products to increase their sales.
+Best buy sell had decrease a profit in these last couple of months and want to cut certain products that aren't doing well. The company want to analyze specific products that has the most amount of sales. Which product had the least amount of Sales. So you can help estimate which product that we should stop selling.
 
 
 Data And Model:
@@ -11,3 +11,4 @@ Conclusion:
 - We found the City has the most amount of Sales is San Francisco
 - The best month in Sales is December because it is when Christmas and News Year
 - The Product are sold most is batteries.
+- The least amont of Sales are Washing and Dryer Machine
